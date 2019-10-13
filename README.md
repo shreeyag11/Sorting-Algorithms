@@ -1,8 +1,9 @@
 Comparison-based Sorting Algorithms
 
+The various sorting algorithm used in the comparison are:
 1. Insertion sort
 2. Merge sort
-3. Heapsort [vector based, and insert one item at a time]
+3. Heapsort [vector based, and inserting one item at a time]
 4. In-place quicksort (any random item or the first or the last item of your input can be pivot).
 5. Modified quicksort
   a. Use median-of-three as pivot.
