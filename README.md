@@ -1,6 +1,6 @@
 ITCS 6114/8114 : Algorithm and Data Structures
 
-Comparison-based Sorting Algorithms
+Project 1: Comparison-based Sorting Algorithms
 
 The various sorting algorithm used in the comparison are:
 1. Insertion sort
